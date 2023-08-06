@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello guys, welcome to my profile! 😄🖤
 
-<!--
-**putzjuau/putzjuau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is João Victor and I am 20 years old.
 
-Here are some ideas to get you started:
+- Study Analysis and development of systems by the Federal Institute of Paraná/Brazil - Campus Umuarama.
+- I am passionate about back-end and various technologies.
+- Every day seeking 1% better compared to yesterday.
+- I use this space for my organization and sharing of my developed projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contatos 📫
+
+     [Linkedin](https://www.linkedin.com/in/joão-victor-de-oliveira-dos-santos-09b21820a/)
+      
+
+
+ ![](https://media.tenor.com/71o0pKp1BOgAAAAC/naruto.gif) 
