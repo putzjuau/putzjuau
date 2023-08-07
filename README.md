@@ -18,3 +18,9 @@ System.out.println("Hello World!");
 )](https://www.instagram.com/jhon_victor1/)
 
  ![](https://media.tenor.com/71o0pKp1BOgAAAAC/naruto.gif) 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=putzjuau&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=putzjuau&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=putzjuau&theme=nord_dark) |
+| :-: | :-: | :-: | 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=putzjuau&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=putzjuau&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
