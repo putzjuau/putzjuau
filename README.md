@@ -10,11 +10,6 @@ System.out.println("Hello World!");
   >* Every day seeking 1% better compared to yesterday.
   >* I use this space for my organization and sharing of my developed projects.
 
- <div align="right">
-  <img src="https://github.com/putzjuau/putzjuau/blob/main/octocat-1691443670355.png" width=500px />
- </div>
- 
-</div>
   ### You can get in touch 📫
   
 <!-- Likendin--> 
@@ -23,7 +18,7 @@ System.out.println("Hello World!");
 )](https://www.instagram.com/jhon_victor1/)
 
 
- <img src="https://media.tenor.com/71o0pKp1BOgAAAAC/naruto.gif" width=500px /> <img src="https://github.com/putzjuau/putzjuau/blob/main/octocat-1691443670355.png" width=500px />
+ <img src="https://github.com/putzjuau/putzjuau/blob/main/octocat-1691443670355.png" width=500px align-item="Center"/>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=putzjuau&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=putzjuau&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=putzjuau&theme=nord_dark) |
 | :-: | :-: | :-: | 
