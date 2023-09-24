@@ -20,10 +20,15 @@ System.out.println("Hello World!");
  </h4>
 
 
- <img src="https://github.com/putzjuau/putzjuau/blob/main/octocat-1691443670355.png" width=500px align-item="Center"/>
+<div align="center" >
+  <a href="https://github.com/ndelanhese">
+    <div style="width: 30rem">
+      <img height="160em"src="https://github-readme-streak-stats.herokuapp.com?user=putzjuau&theme=dracula&&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br" /> 
+      <img height="164em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=putzjuau&theme=dracula&hide_border=true&layout=compact&langs_count=5&locale=pt-br"/>
+      <img height="164em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@putzjuau&theme=dracula&hide_border=true&langs_count=5&layout=compact&locale=pt-br" />   
+       <img height="160em"  src="https://github-readme-stats.vercel.app/api?   
+      username=putzjuau&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
+    </div>
+</div>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=putzjuau&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=putzjuau&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=putzjuau&theme=nord_dark) |
-| :-: | :-: | :-: | 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=putzjuau&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=putzjuau&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
