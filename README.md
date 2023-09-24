@@ -25,7 +25,7 @@ System.out.println("Hello World!");
     <div style="width: 30rem">
       <img height="160em"src="https://github-readme-streak-stats.herokuapp.com?user=putzjuau&theme=dracula&&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br" /> 
       <img height="164em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=putzjuau&theme=dracula&hide_border=true&layout=compact&langs_count=5&locale=pt-br"/>
-      <img height="164em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@putzjuau&theme=dracula&hide_border=true&langs_count=5&layout=compact&locale=pt-br" />   
+      <img height="164em" src="https://github-readme-stats.vercel.app/api/wakatime?username=putzjuau&theme=dracula&hide_border=true&langs_count=5&layout=compact&locale=pt-br" />   
        <img height="160em"  src="https://github-readme-stats.vercel.app/api?   
       username=putzjuau&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
     </div>
