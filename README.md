@@ -1,5 +1,4 @@
-
-###  Olá, eu sou o João Victor 
+### Olá, eu sou o João Victor
 
   - 📈 Estudo cotidianamente, 1% melhor a cada dia.
   - 📗 Estou no 1° ano de Análise e D. de Sistemas
@@ -7,22 +6,36 @@
   - Me mande um email se desejar: <a target="_blank" href="mailto:joaovictorfaisca@gmail.com">E-mail</a>
   - 💥 Veja meu portfólio <a target="_blank" href="https://portfolioputzjuau.vercel.app">João Victor</a>
 
-### Entre em contato comigo por outras redes: 📫
-  
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/putzjuau/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhon_victor1/)
- [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/putzjuau)
-
-
-<div align="center" >
+<div align="center"><br>
   <a href="https://github.com/putzjuau">
     <div style= "width: 40rem">
-  <img height="160em"src="https://github-readme-stats.vercel.app/api?username=putzjuau&show_icons=true&theme=radical"/>
-          <img height="160em"src="https://github-readme-streak-stats.herokuapp.com?user=putzjuau&theme=dracula&&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br" /> 
+  <img height="160em"src="https://github-readme-stats.vercel.app/api?username=putzjuau&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
+          <img height="160em"src="https://github-readme-streak-stats.herokuapp.com?user=putzjuau&theme=radical&&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br" /> 
       
-   <img height="164em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=putzjuau&theme=dracula&hide_border=true&layout=compact&langs_count=5&locale=pt-br"/>
-      <img height="164em" src="https://github-readme-stats.vercel.app/api/wakatime?username=putzjuau&theme=dracula&hide_border=true&langs_count=5&layout=compact&locale=pt-br" />  
+   <img height="164em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=putzjuau&theme=radical&hide_border=true&layout=compact&langs_count=5&locale=pt-br"/>
+      <img height="164em" src="https://github-readme-stats.vercel.app/api/wakatime?username=putzjuau&theme=radical&hide_border=true&langs_count=5&layout=compact&locale=pt-br" />  
     </div>
 </div>
 
+##
+ <h3 align="center">Tecnologias</h3>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img  align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
+  
+
+</div>
+  
+## 
+ <h3 align="center">Entre em contato comigo por outras redes: 📫</h3><br>
+ <div align="center">
+  <a href="https://instagram.com/jhon_victor1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://github.com/putzjuau" target="_blank"> <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> 
+  <a href="mailto:ndelanhese@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/putzjuau/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=putzjuau.putzjuau")/>
