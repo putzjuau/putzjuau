@@ -8,7 +8,7 @@
 
 <div align="center"><br>
   <a href="https://github.com/putzjuau">
-    <div style= "width: 40rem">
+    <div style= "width: 35rem">
   <img height="160em"src="https://github-readme-stats.vercel.app/api?username=putzjuau&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
           <img height="160em"src="https://github-readme-streak-stats.herokuapp.com?user=putzjuau&theme=radical&&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt-br" /> 
       
