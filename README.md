@@ -3,7 +3,7 @@
   - 📈 Estudo cotidianamente, 1% melhor a cada dia.
   - 📗 Estou no 1° ano de Análise e D. de Sistemas
   - 🎓 Sou Técnico em Infomática, cursado em conjunto ao ensino médio pelo Ifpr - Instituto Federal do Paraná.
-  - Me mande um email se desejar: <a target="_blank" href="mailto:joaovictorfaisca@gmail.com">E-mail</a>
+  - 📧 Me mande um email se desejar: <a target="_blank" href="mailto:joaovictorfaisca@gmail.com">E-mail</a>
   - 💥 Veja meu portfólio <a target="_blank" href="https://portfolioputzjuau.vercel.app">João Victor</a>
 
 <div align="center"><br>
