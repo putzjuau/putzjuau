@@ -1,7 +1,5 @@
 ### Olá, eu sou o João Victor
 
-  - 🎓 Sou Técnico em Infomática, cursado em conjunto ao ensino médio pelo Ifpr - Instituto Federal do Paraná.
-  - 📧 Me mande um email se desejar: <a target="_blank" href="mailto:joaovictorfaisca@gmail.com">E-mail</a>
 
 <div align="center"><br>
   <a href="https://github.com/putzjuau">
