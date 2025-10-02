@@ -7,7 +7,8 @@
       <img height="160em"src="https://github-readme-stats.vercel.app/api?username=putzjuau&show_icons=true&theme=radical&hide_border=true"/>  
       <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=putzjuau&theme=radical&hide_border=true"/>  
       <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=putzjuau&theme=radical&hide_border=true&layout=compact&langs_count=5&locale=pt-br">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=putzjuau&theme=radical&hide_border=true&langs_count=5&layout=compact&locale=pt-br&commits_year=2025" >  
+      <img height="160em" 
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=putzjuau&theme=radical&hide_border=true&langs_count=5&layout=compact&locale=pt-br&commits_year=2025" >  
     </div>
 </div>
 
